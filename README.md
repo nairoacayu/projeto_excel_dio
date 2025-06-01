@@ -12,5 +12,3 @@ A planilha está estruturada para:
 4. Alocação por Perfil de Investidor
 
 5. Totalização e Verificação
-
-Objetivo Principal: 
